@@ -49,11 +49,6 @@ Awesome githuber
 </p> 
 -->
 
-<!-- 
-<div align="center">
-    <img height="150" src="images/rock-rock-rock.gif" alt="gif with funny random cat say thank you." />
-</div>
--->
 
 <p align="center">
     <b><a href="https://github.com/CieanYau">Student Development</a></b>
