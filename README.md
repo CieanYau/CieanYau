@@ -33,17 +33,12 @@
 
 ## 😐 About Me
 
-```Java
-class AboutMe{
-    static NAME = CieanYau;
-    static ACADEMICS = "Specialized students";
-    static AGE = 18;
-    public static void Life_Of_Me {
-       Life = NAME + AGE + ACADEMICS;
-       System.out.println(Life)
-    }
+```Go
+func CieanYau{
+  var language [2]string = {"Java","Python"}
+  for i = 0; i < 2; i++ {
+    fmt.Printf("Language:%d",language[i])
+  }
 }
 ```
-## Status
-![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
 
