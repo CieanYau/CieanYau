@@ -34,11 +34,10 @@
 ## 😐 About Me
 
 ```Go
-func CieanYau{
-  var language [2]string = {"Java","Python"}
-  for i = 0; i < 2; i++ {
-    fmt.Printf("Language:%d",language[i])
-  }
+package main
+import "fmt"
+func main() {
+  fmt.Printf("Hello World")
 }
 ```
 
