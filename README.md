@@ -36,7 +36,7 @@
 
 ```Go
 func CieanYau() []string {
-	var Language []string = []string{
+	var Language = []string{
 		"Java",
 		"Python",
 	}
