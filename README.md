@@ -34,7 +34,7 @@
 ## 😐 About Me
 <h3>
 
-```golang
+```go
 func CieanYau() []string {
 	var Language = []string{
 		"Java",
