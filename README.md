@@ -34,14 +34,6 @@
 ## 😐 About Me
 <h3>
 
-```go
-func CieanYau() []string {
-	var Language = []string{
-		"Java",
-		"Python",
-	}
-	return Language
-}
-```
+一个很不认真的、不让人省心的坏小孩
 
 </h3>
